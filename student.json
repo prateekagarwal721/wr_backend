@@ -1,0 +1,26 @@
+
+[
+    {    
+        "id": "1",
+        "first_name": "test",
+        "middle_name":"",
+        "last_name": "",
+        "dob":"2010-10-10",
+        "education": "",
+        "specialization":"",
+        "address":"",
+        "is_deleted":false
+
+    },
+    {    
+        "id": "2",
+        "first_name": "test",
+        "middle_name":"",
+        "last_name": "",
+        "dob":"2000-10-10",
+        "education": "",
+        "specialization":"",
+        "address":"",
+        "is_deleted":false
+    }   
+]
